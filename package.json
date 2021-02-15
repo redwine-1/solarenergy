@@ -1,0 +1,37 @@
+{
+  "name": "nextjs",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.0.0",
+    "@material-ui/core": "^5.0.0-alpha.24",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "axios": "^0.21.1",
+    "bcrypt": "^5.0.0",
+    "clsx": "^1.1.1",
+    "cookie": "^0.4.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.11",
+    "next": "^10.0.5",
+    "prop-types": "latest",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-material-ui-carousel": "^2.1.1",
+    "swr": "^0.4.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "stylis": "^3.5.0"
+  },
+  "peerDependencies": {
+    "@material-ui/core": "^4.9.11"
+  }
+}
