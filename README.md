@@ -1,4 +1,4 @@
-![Solarnergy](https://github.com/redwine-1/solarenergy/blob/main/solarenergy.png)
+![Solarnergy](https://github.com/redwine-1/solarenergy/blob/main/solarenergy.PNG)
 
 # Solar Energy
 
