@@ -76,6 +76,7 @@ export default function Messages({ messages }) {
         variant: "success",
       });
       setMessages(allMessages.filter((item) => item._id !== ID));
+      setOpen({ id: "", data: "", open: false });
     } else {
       setNotify({
         isOpen: true,
