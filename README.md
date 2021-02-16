@@ -1,3 +1,5 @@
+![Solarnergy](https://github.com/redwine-1/solarenergy/blob/main/solarenergy.png)
+
 # Solar Energy
 
 ## How to install
